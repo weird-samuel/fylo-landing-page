@@ -9,6 +9,10 @@ img {
     max-width: 100%;
 }
 
+a:hover {
+    cursor: pointer;
+}
+
 h1,
 h2,
 h3,
